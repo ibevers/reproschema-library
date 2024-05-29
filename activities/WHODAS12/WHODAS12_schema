@@ -2,7 +2,7 @@
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Activity",
     "@id": "WHODAS12_schema",
-    "prefLabel": "WHODAS12",
+    "prefLabel": "WHODAS12_schema",
     "description": "WHODAS12 assessment schema",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
